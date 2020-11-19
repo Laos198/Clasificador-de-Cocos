@@ -1,0 +1,10 @@
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\bin\Debug\Seleccionador_Cocos.exe.config
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\bin\Debug\Seleccionador_Cocos.exe
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\bin\Debug\Seleccionador_Cocos.pdb
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.csprojAssemblyReference.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.Form1.resources
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.Properties.Resources.resources
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.csproj.GenerateResource.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.csproj.CoreCompileInputs.cache
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.exe
+D:\Morrow\Documents\DMC_Visual_Studio\Temas_selectos\Seleccionador_Cocos\obj\Debug\Seleccionador_Cocos.pdb
